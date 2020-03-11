@@ -1,4 +1,11 @@
-# Programação Competitiva
-Soluções e templates de Programação Competitiva
+ #include <stdio .h>
 
-Powered by Catlangos Corporation and BitBox
+ int main(int argc, char const *argv[]) 
+
+ {
+
+          printf("Luis Felipe lima da mota 2012130074\n"); 
+
+          return 0;
+
+ }
